@@ -11,7 +11,12 @@ git switch -c my-wip-branch
 cargo build --release
 ./target/release/node-template --dev
 ```
-Then once the node is running succesfully open a new terminal and start the front end using npm run dev.
+Then once the node is running succesfully open a new terminal and start the front end: 
+
+```
+cd node_front_end
+npm run dev
+```
 Then go to http://localhost:5174/ to view the front end.
 
 The front end is a simple block tracker so upon pressing the button it uses Polkadot to find the current block in the chain produced by the node.
