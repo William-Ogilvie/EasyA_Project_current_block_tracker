@@ -16,4 +16,4 @@ Then go to http://localhost:5174/ to view the front end.
 
 The front end is a simple block tracker so upon pressing the button it uses Polkadot to find the current block in the chain produced by the node.
 
-(This is a simple project that I made in a few hours during the London EasyA Polkadot Hackathon with the assistance of chat GPT to gain more of an understanding of blockchain and Polkadot)
+(This is a simple project that I made during the London EasyA Polkadot Hackathon with the assistance of chat GPT to gain more of an understanding of blockchain and Polkadot)
